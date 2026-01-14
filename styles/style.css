@@ -459,3 +459,170 @@ color: #001931;
  gap: 6px;
  display: flex;
 }
+.bo-1 {
+ 
+  width: 1536px;
+  height: 506px;
+  padding: 2px 120px 120px 120px;
+  gap: 40px;
+  color: rgba(225, 225, 225, 1);
+}
+.bo-2 {
+ 
+  width: 1296px;
+  height: 384px;
+  border-radius: 12px;
+  padding: 80px 40px;
+  gap: 24px;
+  background-color: rgba(247, 246, 242, 1);
+}
+.bo-3 {
+ 
+  width: 1216px;
+  height: 112px;
+  gap: 16px;
+}
+.bo-4 {
+
+  height: 48px;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  color: black;
+ 
+}
+.bo-5 {
+ 
+  height: 48px;
+  color: #627382;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px;
+}
+.bo-6 {
+
+  width: 1216px;
+  height: 88px;
+  gap: 16px;
+  
+
+ 
+}
+.btn-b {
+ 
+  font-size: 14px;
+    font-weight: 600;
+    width: 170px;
+    height: 42px;
+    border: none;
+    padding: 12px 16px;
+    gap: 10px;
+    border-radius: 4px;
+    background-color: #469165;
+    color: white;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.bo-6-1 {
+  
+  height: 20px;
+  color: #627382;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 13px;
+}
+footer {
+  border-top: 1px;
+  width: 1536px;
+  height: 348px;
+  padding: 120px 120px 30px 120px;
+  gap: 80px;
+  background-color: #001931;
+}
+.f-1 {
+ 
+  width: 1296px;
+  height: 64px;
+  justify-content: space-between;
+  display: flex;
+}
+.fo-1 {
+  
+  width: 330px;
+  height: 60px;
+  gap: 16px;
+}
+.fo-2 {
+
+  width: 210px;
+  height: 64px;
+}
+.fo-3 {
+  
+  width: 110px;
+  height: 28px;
+  color: #FFFFFF;
+ font-weight: 500;
+}
+.fo-4 {
+ 
+  width: 90px;
+  height: 20px;
+  gap: 16px;
+  margin-top: 10px;
+  display: flex;
+}
+.i1 {
+ 
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+}
+.i-1 {
+  width: 10px;
+  width: 10px;
+ margin-left: 4px;
+}
+.i2 {
+ 
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+}
+.i-2 {
+  width: 10px;
+  width: 10px;
+ margin-left: 4px;
+}
+.i3 {
+ 
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+}
+.i-3 {
+  width: 20px;
+  width: 20px;
+ 
+}
+.line {
+  border-top: 1px solid #E5E7EB;
+  width: 1296px;
+  height: 54px;
+  gap: 30px;
+  margin-top: 90px;
+ 
+}
+.c {
+ 
+  color: #FAFAFA;
+  text-align: center;
+  line-height: 24px;
+}
+  
